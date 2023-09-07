@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+}
+.tarjeta{
+    background:linear-gradient(green,blue);
+    color:aliceblue;
+    border-radius: 23px;
+    box-shadow: 5px 5px 5px black;
+ padding: 20px;
+ margin-bottom: 20px;
+}
+
+.tarjeta img{
+    height: 200px;
+}
